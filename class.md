@@ -1,0 +1,2 @@
+turki
+android studio
